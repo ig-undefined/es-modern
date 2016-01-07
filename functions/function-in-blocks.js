@@ -7,9 +7,9 @@
     if (true) {
         sayHi(); // works
 
-        function sayHi() {
-            alert('Hi!');
-        }
+        //function sayHi() {
+        //    alert('Hi!');
+        //}
     }
 
     sayHi(); // doesn't work
